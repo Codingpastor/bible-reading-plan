@@ -29,9 +29,9 @@ Week 24: 1 John 2
 Week 25: 1 John 3
 Week 26: 1 John 4
 Week 27: 1 John 5
-Week 28: 2 John 1
-Week 29: 3 John 1
-Week 30: Jude 1
+Week 28: 2 John
+Week 29: 3 John
+Week 30: Jude
 Week 31: Revelation 1
 Week 32: Revelation 2
 Week 33: Revelation 3
