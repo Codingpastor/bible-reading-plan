@@ -2,161 +2,161 @@
 
 This plan covers the entire New Testament in 156 weeks (3 years). Each week, read the assigned chapter(s).
 
-Week 1: Matthew 1, Matthew 2
-Week 2: Matthew 3, Matthew 4
-Week 3: Matthew 5, Matthew 6
-Week 4: Matthew 7, Matthew 8
-Week 5: Matthew 9, Matthew 10
-Week 6: Matthew 11, Matthew 12
-Week 7: Matthew 13, Matthew 14
-Week 8: Matthew 15, Matthew 16
-Week 9: Matthew 17, Matthew 18
-Week 10: Matthew 19, Matthew 20
-Week 11: Matthew 21, Matthew 22
-Week 12: Matthew 23, Matthew 24
-Week 13: Matthew 25
-Week 14: Matthew 26, Matthew 27
-Week 15: Matthew 28
-Week 16: Mark 1, Mark 2
-Week 17: Mark 3, Mark 4
-Week 18: Mark 5, Mark 6
-Week 19: Mark 7, Mark 8
-Week 20: Mark 9, Mark 10
-Week 21: Mark 11, Mark 12
-Week 22: Mark 13
-Week 23: Mark 14, Mark 15
-Week 24: Mark 16, Luke 1
-Week 25: Luke 2, Luke 3
-Week 26: Luke 4, Luke 5
-Week 27: Luke 6, Luke 7
-Week 28: Luke 8, Luke 9
-Week 29: Luke 10, Luke 11
-Week 30: Luke 12, Luke 13
-Week 31: Luke 14, Luke 15
-Week 32: Luke 16, Luke 17
-Week 33: Luke 18, Luke 19
-Week 34: Luke 20
-Week 35: Luke 21, Luke 22
-Week 36: Luke 23, Luke 24
-Week 37: John 1, John 2
-Week 38: John 3, John 4
-Week 39: John 5, John 6
-Week 40: John 7, John 8
-Week 41: John 9, John 10
-Week 42: John 11, John 12
-Week 43: John 13, John 14
-Week 44: John 15, John 16
-Week 45: John 17
-Week 46: John 18, John 19
-Week 47: John 20, John 21
-Week 48: Acts 1, Acts 2
-Week 49: Acts 3, Acts 4
-Week 50: Acts 5, Acts 6
-Week 51: Acts 7, Acts 8
-Week 52: Acts 9, Acts 10
-Week 53: Acts 11, Acts 12
-Week 54: Acts 13, Acts 14
-Week 55: Acts 15, Acts 16
-Week 56: Acts 17, Acts 18
-Week 57: Acts 19, Acts 20
-Week 58: Acts 21, Acts 22
-Week 59: Acts 23
-Week 60: Acts 24, Acts 25
-Week 61: Acts 26, Acts 27
-Week 62: Acts 28, Romans 1
-Week 63: Romans 2, Romans 3
-Week 64: Romans 4, Romans 5
-Week 65: Romans 6, Romans 7
-Week 66: Romans 8, Romans 9
-Week 67: Romans 10
-Week 68: Romans 11, Romans 12
-Week 69: Romans 13, Romans 14
-Week 70: Romans 15, Romans 16
-Week 71: 1 Corinthians 1, 1 Corinthians 2
-Week 72: 1 Corinthians 3, 1 Corinthians 4
-Week 73: 1 Corinthians 5, 1 Corinthians 6
-Week 74: 1 Corinthians 7, 1 Corinthians 8
-Week 75: 1 Corinthians 9
-Week 76: 1 Corinthians 10, 1 Corinthians 11
-Week 77: 1 Corinthians 12, 1 Corinthians 13
-Week 78: 1 Corinthians 14, 1 Corinthians 15
-Week 79: 1 Corinthians 16, 2 Corinthians 1
-Week 80: 2 Corinthians 2, 2 Corinthians 3
-Week 81: 2 Corinthians 4, 2 Corinthians 5
-Week 82: 2 Corinthians 6, 2 Corinthians 7
-Week 83: 2 Corinthians 8, 2 Corinthians 9
-Week 84: 2 Corinthians 10
-Week 85: 2 Corinthians 11, 2 Corinthians 12
-Week 86: 2 Corinthians 13, Galatians 1
-Week 87: Galatians 2, Galatians 3
-Week 88: Galatians 4, Galatians 5
-Week 89: Galatians 6
-Week 90: Ephesians 1, Ephesians 2
-Week 91: Ephesians 3, Ephesians 4
-Week 92: Ephesians 5, Ephesians 6
-Week 93: Philippians 1, Philippians 2
-Week 94: Philippians 3, Philippians 4
-Week 95: Colossians 1, Colossians 2
-Week 96: Colossians 3, Colossians 4
-Week 97: 1 Thessalonians 1, 1 Thessalonians 2
-Week 98: 1 Thessalonians 3, 1 Thessalonians 4
-Week 99: 1 Thessalonians 5
-Week 100: 2 Thessalonians 1, 2 Thessalonians 2
-Week 101: 2 Thessalonians 3, 1 Timothy 1
-Week 102: 1 Timothy 2, 1 Timothy 3
-Week 103: 1 Timothy 4, 1 Timothy 5
-Week 104: 1 Timothy 6
-Week 105: 2 Timothy 1, 2 Timothy 2
-Week 106: 2 Timothy 3, 2 Timothy 4
-Week 107: Titus 1, Titus 2
-Week 108: Titus 3, Philemon 1
-Week 109: Hebrews 1, Hebrews 2
-Week 110: Hebrews 3, Hebrews 4
-Week 111: Hebrews 5, Hebrews 6
-Week 112: Hebrews 7, Hebrews 8
-Week 113: Hebrews 9, Hebrews 10
-Week 114: Hebrews 11, Hebrews 12
-Week 115: Hebrews 13
-Week 116: James 1
-Week 117: James 2
-Week 118: James 3
-Week 119: James 4
-Week 120: James 5
-Week 121: 1 Peter 1
-Week 122: 1 Peter 2
-Week 123: 1 Peter 3
-Week 124: 1 Peter 4
-Week 125: 1 Peter 5
-Week 126: 2 Peter 1
-Week 127: 2 Peter 2
-Week 128: 2 Peter 3
-Week 129: 1 John 1
-Week 130: 1 John 2
-Week 131: 1 John 3
-Week 132: 1 John 4
-Week 133: 1 John 5
-Week 134: 2 John 1
-Week 135: 3 John 1
-Week 136: Jude 1
-Week 137: Revelation 1
-Week 138: Revelation 2
-Week 139: Revelation 3
-Week 140: Revelation 4
-Week 141: Revelation 5
-Week 142: Revelation 6
-Week 143: Revelation 7
-Week 144: Revelation 8
-Week 145: Revelation 9
-Week 146: Revelation 10
-Week 147: Revelation 11
-Week 148: Revelation 12
-Week 149: Revelation 13
-Week 150: Revelation 14
-Week 151: Revelation 15
-Week 152: Revelation 16
-Week 153: Revelation 17
-Week 154: Revelation 18
-Week 155: Revelation 19, Revelation 20
-Week 156: Revelation 21, Revelation 22
+Week 1: Matthew 1, Matthew 2; Genesis 3 (The promise of a Savior after the fall, fulfilled in Jesus' birth)
+Week 2: Matthew 3, Matthew 4; Exodus 14 (Israel passes through water, as Jesus is baptized and faces temptation)
+Week 3: Matthew 5, Matthew 6; Deuteronomy 6 (The Shema and the call to love God, echoed in Jesus' teaching)
+Week 4: Matthew 7, Matthew 8; Proverbs 2 (Wisdom and the way of life, as Jesus teaches and heals)
+Week 5: Matthew 9, Matthew 10; Isaiah 6 (Isaiah's call and sending, like Jesus sending the disciples)
+Week 6: Matthew 11, Matthew 12; Psalm 22 (The suffering righteous one, echoed in Jesus' ministry and rejection)
+Week 7: Matthew 13, Matthew 14; Isaiah 55 (God's word and invitation, as Jesus teaches in parables)
+Week 8: Matthew 15, Matthew 16; Leviticus 11 (Clean and unclean, as Jesus teaches about true purity)
+Week 9: Matthew 17, Matthew 18; Exodus 34 (Moses' shining face and the transfiguration of Jesus)
+Week 10: Matthew 19, Matthew 20; Genesis 2 (Marriage and creation, as Jesus teaches on marriage and the kingdom)
+Week 11: Matthew 21, Matthew 22; Zechariah 9 (The coming king on a donkey, fulfilled in Jesus' entry)
+Week 12: Matthew 23, Matthew 24; Jeremiah 7 (Judgment on the temple, as Jesus foretells destruction)
+Week 13: Matthew 25; Daniel 7 (The Son of Man comes in glory, as in Jesus' parables)
+Week 14: Matthew 26, Matthew 27; Isaiah 53 (The suffering servant, fulfilled in Jesus' passion)
+Week 15: Matthew 28; Jonah 2 (Deliverance from death, as Jesus rises from the grave)
+Week 16: Mark 1, Mark 2; Malachi 3 (The messenger prepares the way, as John and Jesus begin ministry)
+Week 17: Mark 3, Mark 4; Psalm 1 (The fruitful life, as Jesus teaches about the sower and the word)
+Week 18: Mark 5, Mark 6; 1 Kings 17 (Miracles of provision and resurrection, as Jesus heals and feeds)
+Week 19: Mark 7, Mark 8; Isaiah 29 (Spiritual blindness and deafness, as Jesus heals and teaches)
+Week 20: Mark 9, Mark 10; Numbers 21 (The lifted serpent, as Jesus speaks of his coming death)
+Week 21: Mark 11, Mark 12; Psalm 118 (The rejected stone, as Jesus enters Jerusalem and teaches)
+Week 22: Mark 13; Joel 2 (The day of the Lord, as Jesus teaches about the end times)
+Week 23: Mark 14, Mark 15; Psalm 69 (Suffering and betrayal, as Jesus is arrested and crucified)
+Week 24: Mark 16, Luke 1; 1 Samuel 2 (Songs of deliverance, as Mary and others rejoice)
+Week 25: Luke 2, Luke 3; Micah 5 (The promised ruler from Bethlehem, as Jesus is born)
+Week 26: Luke 4, Luke 5; Isaiah 61 (The Spirit of the Lord, as Jesus begins his ministry)
+Week 27: Luke 6, Luke 7; Proverbs 19 (Compassion for the poor, as Jesus teaches and heals)
+Week 28: Luke 8, Luke 9; 2 Kings 4 (Miracles of provision and resurrection, as Jesus feeds and heals)
+Week 29: Luke 10, Luke 11; Deuteronomy 30 (The call to choose life, as Jesus sends out disciples)
+Week 30: Luke 12, Luke 13; Amos 5 (Seek the Lord and live, as Jesus calls for repentance)
+Week 31: Luke 14, Luke 15; Isaiah 25 (The great banquet, as Jesus tells parables of the feast)
+Week 32: Luke 16, Luke 17; Proverbs 28 (Wealth, justice, and the heart, as Jesus teaches on riches and faith)
+Week 33: Luke 18, Luke 19; Micah 6 (What does the Lord require? Justice, mercy, humility, as Jesus meets Zacchaeus)
+Week 34: Luke 20; Psalm 2 (God's Son and authority, as Jesus debates with leaders)
+Week 35: Luke 21, Luke 22; Daniel 9 (Prayer, prophecy, and the coming anointed one)
+Week 36: Luke 23, Luke 24; Psalm 16 (Hope in resurrection, as Jesus rises from the dead)
+Week 37: John 1, John 2; Genesis 1 (Creation and new beginnings, as the Word becomes flesh)
+Week 38: John 3, John 4; Numbers 21 (The bronze serpent lifted up, as Jesus speaks of new birth)
+Week 39: John 5, John 6; Exodus 16 (Manna from heaven, as Jesus feeds the multitude)
+Week 40: John 7, John 8; Isaiah 12 (Living water and salvation, as Jesus teaches at the feast)
+Week 41: John 9, John 10; Psalm 23 (The Lord is my shepherd, as Jesus heals and teaches)
+Week 42: John 11, John 12; 1 Kings 17 (Resurrection and faith, as Jesus raises Lazarus)
+Week 43: John 13, John 14; Exodus 12 (The Passover lamb, as Jesus prepares for his death)
+Week 44: John 15, John 16; Jeremiah 31 (The new covenant, as Jesus promises the Spirit)
+Week 45: John 17; Psalm 133 (Unity and blessing, as Jesus prays for his followers)
+Week 46: John 18, John 19; Isaiah 50 (The suffering servant, as Jesus is tried and crucified)
+Week 47: John 20, John 21; Job 19 (Hope in a Redeemer, as Jesus rises and restores)
+Week 48: Acts 1, Acts 2; Numbers 11 (The Spirit comes upon the people, as at Pentecost)
+Week 49: Acts 3, Acts 4; Isaiah 35 (Healing and joy, as the apostles perform miracles)
+Week 50: Acts 5, Acts 6; Joshua 1 (Courage and leadership, as the church grows)
+Week 51: Acts 7, Acts 8; Genesis 12 (The call of Abraham, as the gospel spreads to the nations)
+Week 52: Acts 9, Acts 10; Isaiah 49 (A light to the Gentiles, as Peter and Paul are called)
+Week 53: Acts 11, Acts 12; Psalm 67 (God's blessing for all nations, as the church expands)
+Week 54: Acts 13, Acts 14; Habakkuk 2 (The righteous live by faith, as Paul preaches)
+Week 55: Acts 15, Acts 16; Amos 9 (Restoration of David's tent, as the Gentiles are welcomed)
+Week 56: Acts 17, Acts 18; Psalm 115 (Idols and the living God, as Paul preaches in Athens)
+Week 57: Acts 19, Acts 20; Exodus 32 (Confronting idolatry, as Paul faces opposition)
+Week 58: Acts 21, Acts 22; Jeremiah 1 (A prophet to the nations, as Paul testifies)
+Week 59: Acts 23; Psalm 27 (The Lord is my light and salvation, as Paul faces danger)
+Week 60: Acts 24, Acts 25; Proverbs 21 (Justice and rulers, as Paul stands trial)
+Week 61: Acts 26, Acts 27; Psalm 107 (Deliverance from storms, as Paul journeys to Rome)
+Week 62: Acts 28, Romans 1; Isaiah 52 (Good news proclaimed, as Paul arrives in Rome)
+Week 63: Romans 2, Romans 3; Psalm 14 (All have sinned, as Paul teaches on sin and grace)
+Week 64: Romans 4, Romans 5; Genesis 15 (Abraham's faith, as Paul explains justification)
+Week 65: Romans 6, Romans 7; Exodus 14 (Freedom from slavery, as Paul teaches on new life)
+Week 66: Romans 8, Romans 9; Jeremiah 31 (The Spirit and the new covenant, as Paul explains God's plan)
+Week 67: Romans 10; Joel 2 (Everyone who calls on the Lord will be saved)
+Week 68: Romans 11, Romans 12; 1 Kings 19 (A remnant chosen by grace, as Paul explains Israel's future)
+Week 69: Romans 13, Romans 14; Proverbs 3 (Wisdom and love, as Paul teaches on living in society)
+Week 70: Romans 15, Romans 16; Psalm 117 (Praise from all nations, as Paul concludes his letter)
+Week 71: 1 Corinthians 1, 1 Corinthians 2; Isaiah 29 (God's wisdom vs. human wisdom)
+Week 72: 1 Corinthians 3, 1 Corinthians 4; Jeremiah 9 (Let him who boasts, boast in the Lord)
+Week 73: 1 Corinthians 5, 1 Corinthians 6; Leviticus 18 (Holiness in the community)
+Week 74: 1 Corinthians 7, 1 Corinthians 8; Genesis 24 (Marriage and faithfulness)
+Week 75: 1 Corinthians 9; Deuteronomy 25 (The worker deserves his wages)
+Week 76: 1 Corinthians 10, 1 Corinthians 11; Exodus 16 (Lessons from Israel's history)
+Week 77: 1 Corinthians 12, 1 Corinthians 13; Numbers 12 (Gifts and love in the body)
+Week 78: 1 Corinthians 14, 1 Corinthians 15; Daniel 12 (Resurrection and the end)
+Week 79: 1 Corinthians 16, 2 Corinthians 1; Psalm 133 (Unity and blessing)
+Week 80: 2 Corinthians 2, 2 Corinthians 3; Exodus 34 (The veil and the new covenant)
+Week 81: 2 Corinthians 4, 2 Corinthians 5; Isaiah 40 (Comfort and hope in suffering)
+Week 82: 2 Corinthians 6, 2 Corinthians 7; Leviticus 26 (Holiness and God's promises)
+Week 83: 2 Corinthians 8, 2 Corinthians 9; Malachi 3 (Giving and God's provision)
+Week 84: 2 Corinthians 10; Psalm 18 (Spiritual warfare and God's strength)
+Week 85: 2 Corinthians 11, 2 Corinthians 12; Job 2 (Suffering and God's grace)
+Week 86: 2 Corinthians 13, Galatians 1; Deuteronomy 13 (Faithfulness to the true gospel)
+Week 87: Galatians 2, Galatians 3; Genesis 15 (Justification by faith)
+Week 88: Galatians 4, Galatians 5; Isaiah 54 (Freedom and the children of promise)
+Week 89: Galatians 6; Proverbs 11 (Sowing and reaping)
+Week 90: Ephesians 1, Ephesians 2; Ezekiel 36 (A new heart and spirit)
+Week 91: Ephesians 3, Ephesians 4; Psalm 68 (Unity and gifts in the body)
+Week 92: Ephesians 5, Ephesians 6; Proverbs 31 (Wisdom for family and relationships)
+Week 93: Philippians 1, Philippians 2; Isaiah 42 (The servant's humility)
+Week 94: Philippians 3, Philippians 4; Habakkuk 3 (Rejoicing in the Lord)
+Week 95: Colossians 1, Colossians 2; Genesis 1 (Christ as creator and sustainer)
+Week 96: Colossians 3, Colossians 4; Psalm 101 (Living a holy life)
+Week 97: 1 Thessalonians 1, 1 Thessalonians 2; Zephaniah 3 (Joy and hope for God's people)
+Week 98: 1 Thessalonians 3, 1 Thessalonians 4; Daniel 7 (The coming of the Son of Man)
+Week 99: 1 Thessalonians 5; Joel 2 (The day of the Lord)
+Week 100: 2 Thessalonians 1, 2 Thessalonians 2; Isaiah 66 (God's final judgment and comfort)
+Week 101: 2 Thessalonians 3, 1 Timothy 1; Proverbs 6 (Diligence and warning against idleness)
+Week 102: 1 Timothy 2, 1 Timothy 3; Exodus 18 (Leadership and prayer)
+Week 103: 1 Timothy 4, 1 Timothy 5; Proverbs 4 (Instruction for godly living)
+Week 104: 1 Timothy 6; Ecclesiastes 5 (Wealth and contentment)
+Week 105: 2 Timothy 1, 2 Timothy 2; Joshua 1 (Courage and faithfulness in leadership)
+Week 106: 2 Timothy 3, 2 Timothy 4; Deuteronomy 31 (Passing on the faith)
+Week 107: Titus 1, Titus 2; Proverbs 2 (Wisdom for leaders)
+Week 108: Titus 3, Philemon 1; Micah 6 (Justice, mercy, and humility)
+Week 109: Hebrews 1, Hebrews 2; Psalm 8 (The Son of Man crowned with glory)
+Week 110: Hebrews 3, Hebrews 4; Psalm 95 (Rest for God's people)
+Week 111: Hebrews 5, Hebrews 6; Numbers 14 (Faith and perseverance)
+Week 112: Hebrews 7, Hebrews 8; Genesis 14 (Melchizedek and the priesthood)
+Week 113: Hebrews 9, Hebrews 10; Leviticus 16 (The Day of Atonement)
+Week 114: Hebrews 11, Hebrews 12; Genesis 22 (Faith and the promise)
+Week 115: Hebrews 13; Psalm 34 (Living a life of praise and trust)
+Week 116: James 1; Proverbs 1 (Wisdom for trials and life)
+Week 117: James 2; Leviticus 19 (Love your neighbor)
+Week 118: James 3; Proverbs 15 (The power of the tongue)
+Week 119: James 4; Proverbs 16 (Pride and humility)
+Week 120: James 5; 1 Kings 17 (Prayer and faith)
+Week 121: 1 Peter 1; Isaiah 40 (Hope in suffering)
+Week 122: 1 Peter 2; Psalm 118 (The cornerstone)
+Week 123: 1 Peter 3; Proverbs 25 (Gentleness and respect)
+Week 124: 1 Peter 4; Psalm 34 (Suffering for righteousness)
+Week 125: 1 Peter 5; Ezekiel 34 (Shepherds and God's flock)
+Week 126: 2 Peter 1; Deuteronomy 4 (Remembering God's works)
+Week 127: 2 Peter 2; Jeremiah 23 (False prophets)
+Week 128: 2 Peter 3; Isaiah 65 (The new heavens and new earth)
+Week 129: 1 John 1; Psalm 32 (Confession and forgiveness)
+Week 130: 1 John 2; Deuteronomy 6 (Love for God and obedience)
+Week 131: 1 John 3; Genesis 4 (Love and hate: Cain and Abel)
+Week 132: 1 John 4; Leviticus 19 (Love your neighbor)
+Week 133: 1 John 5; Psalm 119 (Faith and God's word)
+Week 134: 2 John 1; Proverbs 4 (Walking in truth and love)
+Week 135: 3 John 1; Proverbs 3 (Hospitality and faithfulness)
+Week 136: Jude 1; Numbers 16 (Rebellion and judgment)
+Week 137: Revelation 1; Daniel 7 (The Son of Man and the Ancient of Days)
+Week 138: Revelation 2; Deuteronomy 28 (Blessings and warnings for the churches)
+Week 139: Revelation 3; Zechariah 3 (Cleansing and restoration)
+Week 140: Revelation 4; Ezekiel 1 (Visions of God's throne)
+Week 141: Revelation 5; Psalm 24 (The King of glory)
+Week 142: Revelation 6; Joel 2 (The day of the Lord)
+Week 143: Revelation 7; Genesis 12 (Blessing for all nations)
+Week 144: Revelation 8; Exodus 19 (God's presence and judgment)
+Week 145: Revelation 9; Exodus 10 (Plagues and judgment)
+Week 146: Revelation 10; Ezekiel 2 (The scroll and the prophet's call)
+Week 147: Revelation 11; Zechariah 4 (The two witnesses and God's Spirit)
+Week 148: Revelation 12; Genesis 3 (The serpent and the woman's offspring)
+Week 149: Revelation 13; Daniel 7 (The beasts and kingdoms)
+Week 150: Revelation 14; Isaiah 34 (Judgment for the nations)
+Week 151: Revelation 15; Exodus 15 (The song of Moses and the Lamb)
+Week 152: Revelation 16; Joshua 6 (Judgment and the fall of the city)
+Week 153: Revelation 17; Nahum 3 (Judgment on the wicked city)
+Week 154: Revelation 18; Isaiah 47 (The fall of Babylon)
+Week 155: Revelation 19, Revelation 20; Psalm 2 (The victory of the Messiah)
+Week 156: Revelation 21, Revelation 22; Isaiah 65 (The new heavens and new earth)
 
 *Each week, read the assigned chapter(s). Some weeks have only one chapter to ensure the plan lasts exactly 156 weeks.*
