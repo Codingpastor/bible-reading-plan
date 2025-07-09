@@ -2,6 +2,8 @@
 
 This plan covers the entire Bible in 156 weeks (3 years). Each week, read the assigned New Testament and Old Testament chapters.
 
+## Year 1
+
 Week 1:
 - NT: Matthew 1-2
 - OT Connection: Genesis 3 (The promise of a Savior after the fall, fulfilled in Jesus' birth)
@@ -262,6 +264,10 @@ Week 52:
 - OT Connection: Isaiah 49 (A light to the Gentiles, as Peter and Paul are called)
 - OT: 2 Kings 1-6
 
+---
+
+## Year 2
+
 Week 53:
 - NT: Acts 11-12
 - OT Connection: Psalm 67 (God's blessing for all nations, as the church expands)
@@ -521,6 +527,10 @@ Week 104:
 - NT: 1 Timothy 6
 - OT Connection: Ecclesiastes 5 (Wealth and contentment)
 - OT: Psalm 132-137
+
+---
+
+## Year 3
 
 Week 105:
 - NT: 2 Timothy 1-2
