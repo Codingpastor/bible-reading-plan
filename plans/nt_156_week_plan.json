@@ -1,0 +1,19 @@
+[
+  {
+    "week": 1,
+    "readings": ["Matthew 1"]
+  },
+  {
+    "week": 2,
+    "readings": ["Matthew 2"]
+  },
+  {
+    "week": 3,
+    "readings": ["Matthew 3"]
+  },
+  // ...existing weeks...
+  {
+    "week": 156,
+    "readings": ["Revelation 22"]
+  }
+]
