@@ -1,6 +1,8 @@
 # 156-Week Bible Reading Plan (OT & NT)
 
-This plan covers the entire Bible in 156 weeks (3 years). Each week, read the assigned New Testament and Old Testament chapters.
+This plan covers the entire Bible in 156 weeks (3 years). Some OT chapters will be repeated for those reading the “OT Connection.”
+
+For those wanting the full experience read everything given for the week. For those wanting a lighter load, just read the NT reading. The “OT Connection” can be added for a bit more (and it gives some OT context to the NT).
 
 ## Year 1
 
@@ -11,7 +13,7 @@ Week 1:
 
 Week 2:
 - NT: Matthew 3-4
-- OT Connection: Exodus 14 (Israel passes through water, as Jesus is baptized and faces temptation)
+- OT Connection: Deuteronomy 8 (Testing in the wilderness, as Jesus faces temptation after baptism)
 - OT: Genesis 7-12
 
 Week 3:
@@ -31,7 +33,7 @@ Week 5:
 
 Week 6:
 - NT: Matthew 11-12
-- OT Connection: Psalm 22 (The suffering righteous one, echoed in Jesus' ministry and rejection)
+- OT Connection: Isaiah 53 (The rejected servant, as Jesus faces opposition and rejection)
 - OT: Genesis 31-36
 
 Week 7:
@@ -71,7 +73,7 @@ Week 13:
 
 Week 14:
 - NT: Matthew 26-27
-- OT Connection: Isaiah 53 (The suffering servant, fulfilled in Jesus' passion)
+- OT Connection: Psalm 22 (The suffering righteous one, fulfilled in Jesus' passion)
 - OT: Exodus 29-34
 
 Week 15:
@@ -101,7 +103,7 @@ Week 19:
 
 Week 20:
 - NT: Mark 9-10
-- OT Connection: Numbers 21 (The lifted serpent, as Jesus speaks of his coming death)
+- OT Connection: Exodus 24 (Moses on the mountain with God's glory, like the transfiguration)
 - OT: Leviticus 26-Numbers 3
 
 Week 21:
@@ -191,7 +193,7 @@ Week 37:
 
 Week 38:
 - NT: John 3-4
-- OT Connection: Numbers 21 (The bronze serpent lifted up, as Jesus speaks of new birth)
+- OT Connection: Numbers 21 (The bronze serpent lifted up, as Jesus speaks of being lifted up)
 - OT: Judges 13-18
 
 Week 39:
@@ -385,12 +387,12 @@ Week 75:
 
 Week 76:
 - NT: 1 Corinthians 10-11
-- OT Connection: Exodus 16 (Lessons from Israel's history)
+- OT Connection: Exodus 32 (Warning against idolatry, as Paul teaches from Israel's failures)
 - OT: Job 21-26
 
 Week 77:
 - NT: 1 Corinthians 12-13
-- OT Connection: Numbers 12 (Gifts and love in the body)
+- OT Connection: Exodus 31 (Gifts of the Spirit for God's work, as Paul teaches about spiritual gifts)
 - OT: Job 27-32
 
 Week 78:
@@ -564,7 +566,7 @@ Week 110:
 
 Week 111:
 - NT: Hebrews 5-6
-- OT Connection: Numbers 14 (Faith and perseverance)
+- OT Connection: Leviticus 8 (Aaron's ordination as priest, as Jesus is our great high priest)
 - OT: Proverbs 28-Ecclesiastes 2
 
 Week 112:
@@ -624,7 +626,7 @@ Week 122:
 
 Week 123:
 - NT: 1 Peter 3
-- OT Connection: Proverbs 25 (Gentleness and respect)
+- OT Connection: Isaiah 50 (The servant's response to suffering, as Peter teaches about suffering)
 - OT: Isaiah 51-56
 
 Week 124:
@@ -769,7 +771,7 @@ Week 151:
 
 Week 152:
 - NT: Revelation 16
-- OT Connection: Joshua 6 (Judgment and the fall of the city)
+- OT Connection: Exodus 7-10 (The plagues of Egypt, as God's judgment falls on the earth)
 - OT: Zechariah 1-6
 
 Week 153:

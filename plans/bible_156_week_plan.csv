@@ -1,0 +1,157 @@
+Week,Year,NT Reading,OT Connection,OT Connection Description,OT Reading
+1,1,Matthew 1-2,Genesis 3,The promise of a Savior after the fall fulfilled in Jesus' birth,Genesis 1-6
+2,1,Matthew 3-4,Deuteronomy 8,Testing in the wilderness as Jesus faces temptation after baptism,Genesis 7-12
+3,1,Matthew 5-6,Deuteronomy 6,The Shema and the call to love God echoed in Jesus' teaching,Genesis 13-18
+4,1,Matthew 7-8,Proverbs 2,Wisdom and the way of life as Jesus teaches and heals,Genesis 19-24
+5,1,Matthew 9-10,Isaiah 6,Isaiah's call and sending like Jesus sending the disciples,Genesis 25-30
+6,1,Matthew 11-12,Isaiah 53,The rejected servant as Jesus faces opposition and rejection,Genesis 31-36
+7,1,Matthew 13-14,Isaiah 55,God's word and invitation as Jesus teaches in parables,Genesis 37-42
+8,1,Matthew 15-16,Leviticus 11,Clean and unclean as Jesus teaches about true purity,Genesis 43-48
+9,1,Matthew 17-18,Exodus 34,Moses' shining face and the transfiguration of Jesus,Genesis 49-Exodus 4
+10,1,Matthew 19-20,Genesis 2,Marriage and creation as Jesus teaches on marriage and the kingdom,Exodus 5-10
+11,1,Matthew 21-22,Zechariah 9,The coming king on a donkey fulfilled in Jesus' entry,Exodus 11-16
+12,1,Matthew 23-24,Jeremiah 7,Judgment on the temple as Jesus foretells destruction,Exodus 17-22
+13,1,Matthew 25,Daniel 7,The Son of Man comes in glory as in Jesus' parables,Exodus 23-28
+14,1,Matthew 26-27,Psalm 22,The suffering righteous one fulfilled in Jesus' passion,Exodus 29-34
+15,1,Matthew 28,Jonah 2,Deliverance from death as Jesus rises from the grave,Exodus 35-Leviticus 1
+16,1,Mark 1-2,Malachi 3,The messenger prepares the way as John and Jesus begin ministry,Leviticus 2-7
+17,1,Mark 3-4,Psalm 1,The fruitful life as Jesus teaches about the sower and the word,Leviticus 8-13
+18,1,Mark 5-6,1 Kings 17,Miracles of provision and resurrection as Jesus heals and feeds,Leviticus 14-19
+19,1,Mark 7-8,Isaiah 29,Spiritual blindness and deafness as Jesus heals and teaches,Leviticus 20-25
+20,1,Mark 9-10,Exodus 24,Moses on the mountain with God's glory like the transfiguration,Leviticus 26-Numbers 3
+21,1,Mark 11-12,Psalm 118,The rejected stone as Jesus enters Jerusalem and teaches,Numbers 4-9
+22,1,Mark 13,Joel 2,The day of the Lord as Jesus teaches about the end times,Numbers 10-15
+23,1,Mark 14-15,Psalm 69,Suffering and betrayal as Jesus is arrested and crucified,Numbers 16-21
+24,1,Mark 16 Luke 1,1 Samuel 2,Songs of deliverance as Mary and others rejoice,Numbers 22-27
+25,1,Luke 2-3,Micah 5,The promised ruler from Bethlehem as Jesus is born,Numbers 28-33
+26,1,Luke 4-5,Isaiah 61,The Spirit of the Lord as Jesus begins his ministry,Numbers 34-Deuteronomy 4
+27,1,Luke 6-7,Proverbs 19,Compassion for the poor as Jesus teaches and heals,Deuteronomy 5-10
+28,1,Luke 8-9,2 Kings 4,Miracles of provision and resurrection as Jesus feeds and heals,Deuteronomy 11-16
+29,1,Luke 10-11,Deuteronomy 30,The call to choose life as Jesus sends out disciples,Deuteronomy 17-22
+30,1,Luke 12-13,Amos 5,Seek the Lord and live as Jesus calls for repentance,Deuteronomy 23-28
+31,1,Luke 14-15,Isaiah 25,The great banquet as Jesus tells parables of the feast,Deuteronomy 29-34
+32,1,Luke 16-17,Proverbs 28,Wealth justice and the heart as Jesus teaches on riches and faith,Joshua 1-6
+33,1,Luke 18-19,Micah 6,What does the Lord require? Justice mercy humility as Jesus meets Zacchaeus,Joshua 7-12
+34,1,Luke 20,Psalm 2,God's Son and authority as Jesus debates with leaders,Joshua 13-18
+35,1,Luke 21-22,Daniel 9,Prayer prophecy and the coming anointed one,Joshua 19-24
+36,1,Luke 23-24,Psalm 16,Hope in resurrection as Jesus rises from the dead,Judges 1-6
+37,1,John 1-2,Genesis 1,Creation and new beginnings as the Word becomes flesh,Judges 7-12
+38,1,John 3-4,Numbers 21,The bronze serpent lifted up as Jesus speaks of being lifted up,Judges 13-18
+39,1,John 5-6,Exodus 16,Manna from heaven as Jesus feeds the multitude,Judges 19-Ruth 4
+40,1,John 7-8,Isaiah 12,Living water and salvation as Jesus teaches at the feast,1 Samuel 1-6
+41,1,John 9-10,Psalm 23,The Lord is my shepherd as Jesus heals and teaches,1 Samuel 7-12
+42,1,John 11-12,1 Kings 17,Resurrection and faith as Jesus raises Lazarus,1 Samuel 13-18
+43,1,John 13-14,Exodus 12,The Passover lamb as Jesus prepares for his death,1 Samuel 19-24
+44,1,John 15-16,Jeremiah 31,The new covenant as Jesus promises the Spirit,1 Samuel 25-2 Samuel 1
+45,1,John 17,Psalm 133,Unity and blessing as Jesus prays for his followers,2 Samuel 2-7
+46,1,John 18-19,Isaiah 50,The suffering servant as Jesus is tried and crucified,2 Samuel 8-13
+47,1,John 20-21,Job 19,Hope in a Redeemer as Jesus rises and restores,2 Samuel 14-19
+48,1,Acts 1-2,Numbers 11,The Spirit comes upon the people as at Pentecost,2 Samuel 20-1 Kings 3
+49,1,Acts 3-4,Isaiah 35,Healing and joy as the apostles perform miracles,1 Kings 4-9
+50,1,Acts 5-6,Joshua 1,Courage and leadership as the church grows,1 Kings 10-15
+51,1,Acts 7-8,Genesis 12,The call of Abraham as the gospel spreads to the nations,1 Kings 16-22
+52,1,Acts 9-10,Isaiah 49,A light to the Gentiles as Peter and Paul are called,2 Kings 1-6
+53,2,Acts 11-12,Psalm 67,God's blessing for all nations as the church expands,2 Kings 7-12
+54,2,Acts 13-14,Habakkuk 2,The righteous live by faith as Paul preaches,2 Kings 13-18
+55,2,Acts 15-16,Amos 9,Restoration of David's tent as the Gentiles are welcomed,2 Kings 19-25
+56,2,Acts 17-18,Psalm 115,Idols and the living God as Paul preaches in Athens,1 Chronicles 1-6
+57,2,Acts 19-20,Exodus 32,Confronting idolatry as Paul faces opposition,1 Chronicles 7-12
+58,2,Acts 21-22,Jeremiah 1,A prophet to the nations as Paul testifies,1 Chronicles 13-18
+59,2,Acts 23,Psalm 27,The Lord is my light and salvation as Paul faces danger,1 Chronicles 19-24
+60,2,Acts 24-25,Proverbs 21,Justice and rulers as Paul stands trial,1 Chronicles 25-2 Chronicles 1
+61,2,Acts 26-27,Psalm 107,Deliverance from storms as Paul journeys to Rome,2 Chronicles 2-7
+62,2,Acts 28 Romans 1,Isaiah 52,Good news proclaimed as Paul arrives in Rome,2 Chronicles 8-13
+63,2,Romans 2-3,Psalm 14,All have sinned as Paul teaches on sin and grace,2 Chronicles 14-19
+64,2,Romans 4-5,Genesis 15,Abraham's faith as Paul explains justification,2 Chronicles 20-25
+65,2,Romans 6-7,Exodus 14,Freedom from slavery as Paul teaches on new life,2 Chronicles 26-31
+66,2,Romans 8-9,Jeremiah 31,The Spirit and the new covenant as Paul explains God's plan,2 Chronicles 32-36
+67,2,Romans 10,Joel 2,Everyone who calls on the Lord will be saved,Ezra 1-6
+68,2,Romans 11-12,1 Kings 19,A remnant chosen by grace as Paul explains Israel's future,Ezra 7-Nehemiah 2
+69,2,Romans 13-14,Proverbs 3,Wisdom and love as Paul teaches on living in society,Nehemiah 3-8
+70,2,Romans 15-16,Psalm 117,Praise from all nations as Paul concludes his letter,Nehemiah 9-13
+71,2,1 Corinthians 1-2,Isaiah 29,God's wisdom vs. human wisdom,Esther 1-6
+72,2,1 Corinthians 3-4,Jeremiah 9,Let him who boasts boast in the Lord,Esther 7-Job 2
+73,2,1 Corinthians 5-6,Leviticus 18,Holiness in the community,Job 3-8
+74,2,1 Corinthians 7-8,Genesis 24,Marriage and faithfulness,Job 9-14
+75,2,1 Corinthians 9,Deuteronomy 25,The worker deserves his wages,Job 15-20
+76,2,1 Corinthians 10-11,Exodus 32,Warning against idolatry as Paul teaches from Israel's failures,Job 21-26
+77,2,1 Corinthians 12-13,Exodus 31,Gifts of the Spirit for God's work as Paul teaches about spiritual gifts,Job 27-32
+78,2,1 Corinthians 14-15,Daniel 12,Resurrection and the end,Job 33-38
+79,2,1 Corinthians 16 2 Corinthians 1,Psalm 133,Unity and blessing,Job 39-Psalm 4
+80,2,2 Corinthians 2-3,Exodus 34,The veil and the new covenant,Psalm 5-10
+81,2,2 Corinthians 4-5,Isaiah 40,Comfort and hope in suffering,Psalm 11-16
+82,2,2 Corinthians 6-7,Leviticus 26,Holiness and God's promises,Psalm 17-22
+83,2,2 Corinthians 8-9,Malachi 3,Giving and God's provision,Psalm 23-28
+84,2,2 Corinthians 10,Psalm 18,Spiritual warfare and God's strength,Psalm 29-34
+85,2,2 Corinthians 11-12,Job 2,Suffering and God's grace,Psalm 35-40
+86,2,2 Corinthians 13 Galatians 1,Deuteronomy 13,Faithfulness to the true gospel,Psalm 41-46
+87,2,Galatians 2-3,Genesis 15,Justification by faith,Psalm 47-52
+88,2,Galatians 4-5,Isaiah 54,Freedom and the children of promise,Psalm 53-58
+89,2,Galatians 6,Proverbs 11,Sowing and reaping,Psalm 59-64
+90,2,Ephesians 1-2,Ezekiel 36,A new heart and spirit,Psalm 65-70
+91,2,Ephesians 3-4,Psalm 68,Unity and gifts in the body,Psalm 71-76
+92,2,Ephesians 5-6,Proverbs 31,Wisdom for family and relationships,Psalm 77-82
+93,2,Philippians 1-2,Isaiah 42,The servant's humility,Psalm 83-88
+94,2,Philippians 3-4,Habakkuk 3,Rejoicing in the Lord,Psalm 89-94
+95,2,Colossians 1-2,Genesis 1,Christ as creator and sustainer,Psalm 95-100
+96,2,Colossians 3-4,Psalm 101,Living a holy life,Psalm 101-106
+97,2,1 Thessalonians 1-2,Zephaniah 3,Joy and hope for God's people,Psalm 107-112
+98,2,1 Thessalonians 3-4,Daniel 7,The coming of the Son of Man,Psalm 113-118
+99,2,1 Thessalonians 5,Joel 2,The day of the Lord,Psalm 119:1-48
+100,2,2 Thessalonians 1-2,Isaiah 66,God's final judgment and comfort,Psalm 119:49-104
+101,2,2 Thessalonians 3 1 Timothy 1,Proverbs 6,Diligence and warning against idleness,Psalm 119:105-176
+102,2,1 Timothy 2-3,Exodus 18,Leadership and prayer,Psalm 120-125
+103,2,1 Timothy 4-5,Proverbs 4,Instruction for godly living,Psalm 126-131
+104,2,1 Timothy 6,Ecclesiastes 5,Wealth and contentment,Psalm 132-137
+105,3,2 Timothy 1-2,Joshua 1,Courage and faithfulness in leadership,Psalm 138-143
+106,3,2 Timothy 3-4,Deuteronomy 31,Passing on the faith,Psalm 144-Proverbs 3
+107,3,Titus 1-2,Proverbs 2,Wisdom for leaders,Proverbs 4-9
+108,3,Titus 3 Philemon 1,Micah 6,Justice mercy and humility,Proverbs 10-15
+109,3,Hebrews 1-2,Psalm 8,The Son of Man crowned with glory,Proverbs 16-21
+110,3,Hebrews 3-4,Psalm 95,Rest for God's people,Proverbs 22-27
+111,3,Hebrews 5-6,Leviticus 8,Aaron's ordination as priest as Jesus is our great high priest,Proverbs 28-Ecclesiastes 2
+112,3,Hebrews 7-8,Genesis 14,Melchizedek and the priesthood,Ecclesiastes 3-8
+113,3,Hebrews 9-10,Leviticus 16,The Day of Atonement,Ecclesiastes 9-Song of Solomon 4
+114,3,Hebrews 11-12,Genesis 22,Faith and the promise,Song of Solomon 5-Isaiah 2
+115,3,Hebrews 13,Psalm 34,Living a life of praise and trust,Isaiah 3-8
+116,3,James 1,Proverbs 1,Wisdom for trials and life,Isaiah 9-14
+117,3,James 2,Leviticus 19,Love your neighbor,Isaiah 15-20
+118,3,James 3,Proverbs 15,The power of the tongue,Isaiah 21-26
+119,3,James 4,Proverbs 16,Pride and humility,Isaiah 27-32
+120,3,James 5,1 Kings 17,Prayer and faith,Isaiah 33-38
+121,3,1 Peter 1,Isaiah 40,Hope in suffering,Isaiah 39-44
+122,3,1 Peter 2,Psalm 118,The cornerstone,Isaiah 45-50
+123,3,1 Peter 3,Isaiah 50,The servant's response to suffering as Peter teaches about suffering,Isaiah 51-56
+124,3,1 Peter 4,Psalm 34,Suffering for righteousness,Isaiah 57-62
+125,3,1 Peter 5,Ezekiel 34,Shepherds and God's flock,Isaiah 63-Jeremiah 2
+126,3,2 Peter 1,Deuteronomy 4,Remembering God's works,Jeremiah 3-8
+127,3,2 Peter 2,Jeremiah 23,False prophets,Jeremiah 9-14
+128,3,2 Peter 3,Isaiah 65,The new heavens and new earth,Jeremiah 15-20
+129,3,1 John 1,Psalm 32,Confession and forgiveness,Jeremiah 21-26
+130,3,1 John 2,Deuteronomy 6,Love for God and obedience,Jeremiah 27-32
+131,3,1 John 3,Genesis 4,Love and hate: Cain and Abel,Jeremiah 33-38
+132,3,1 John 4,Leviticus 19,Love your neighbor,Jeremiah 39-44
+133,3,1 John 5,Psalm 119,Faith and God's word,Jeremiah 45-Lamentations 2
+134,3,2 John 1,Proverbs 4,Walking in truth and love,Lamentations 3-Ezekiel 2
+135,3,3 John 1,Proverbs 3,Hospitality and faithfulness,Ezekiel 3-8
+136,3,Jude 1,Numbers 16,Rebellion and judgment,Ezekiel 9-14
+137,3,Revelation 1,Daniel 7,The Son of Man and the Ancient of Days,Ezekiel 15-20
+138,3,Revelation 2,Deuteronomy 28,Blessings and warnings for the churches,Ezekiel 21-26
+139,3,Revelation 3,Zechariah 3,Cleansing and restoration,Ezekiel 27-32
+140,3,Revelation 4,Ezekiel 1,Visions of God's throne,Ezekiel 33-38
+141,3,Revelation 5,Psalm 24,The King of glory,Ezekiel 39-Daniel 2
+142,3,Revelation 6,Joel 2,The day of the Lord,Daniel 3-8
+143,3,Revelation 7,Genesis 12,Blessing for all nations,Daniel 9-Hosea 2
+144,3,Revelation 8,Exodus 19,God's presence and judgment,Hosea 3-8
+145,3,Revelation 9,Exodus 10,Plagues and judgment,Hosea 9-Joel 2
+146,3,Revelation 10,Ezekiel 2,The scroll and the prophet's call,Joel 3-Amos 5
+147,3,Revelation 11,Zechariah 4,The two witnesses and God's Spirit,Amos 6-Obadiah 1
+148,3,Revelation 12,Genesis 3,The serpent and the woman's offspring,Jonah 1-Micah 2
+149,3,Revelation 13,Daniel 7,The beasts and kingdoms,Micah 3-Nahum 2
+150,3,Revelation 14,Isaiah 34,Judgment for the nations,Nahum 3-Habakkuk 3
+151,3,Revelation 15,Exodus 15,The song of Moses and the Lamb,Zephaniah 1-Haggai 2
+152,3,Revelation 16,Exodus 7-10,The plagues of Egypt as God's judgment falls on the earth,Zechariah 1-6
+153,3,Revelation 17,Nahum 3,Judgment on the wicked city,Zechariah 7-12
+154,3,Revelation 18,Isaiah 47,The fall of Babylon,Zechariah 13-Malachi 1
+155,3,Revelation 19-20,Psalm 2,The victory of the Messiah,Malachi 2-3
+156,3,Revelation 21-22,Isaiah 65,The new heavens and new earth,Malachi 4
