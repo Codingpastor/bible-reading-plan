@@ -31,7 +31,15 @@ const bibleResources = [
   { name: 'Bible Hub', url: 'https://biblehub.com/' },
   { name: 'Bible Gateway', url: 'https://www.biblegateway.com/' },
   { name: 'Blue Letter Bible', url: 'https://www.blueletterbible.org/' },
-  { name: 'YouVersion', url: 'https://www.youversion.com/' }
+  { name: 'YouVersion', url: 'https://www.youversion.com/' },
+  { name: 'ESV Bible', url: 'https://www.esv.org/' },
+  { name: 'Logos Bible Software', url: 'https://www.logos.com/' },
+  { name: 'BibleStudyTools', url: 'https://www.biblestudytools.com/' },
+  { name: 'Olive Tree Bible', url: 'https://www.olivetree.com/' },
+  { name: 'Bible.com', url: 'https://www.bible.com/' },
+  { name: 'Accordance Bible Software', url: 'https://www.accordancebible.com/' },
+  { name: 'Crossway', url: 'https://www.crossway.org/' },
+  { name: 'Got Questions', url: 'https://www.gotquestions.org/' }
 ];
 
 export default function App() {
@@ -150,11 +158,46 @@ export default function App() {
             </li>
           ))}
         </ul>
-        <p className="advice">
-          Building a habit of reading Scripture takes consistency and prayer. Start small, 
-          reflect on what you read, and ask God to guide your understanding. Over time, 
-          it will become a cherished part of your daily routine.
-        </p>
+        <div className="spiritual-discipline-section">
+          <h3 className="discipline-title">Bible Reading as a Spiritual Discipline</h3>
+          <p className="discipline-text">
+            Bible reading is far more than an intellectual exercise—it is a sacred spiritual discipline 
+            that connects us with the living God. Through Scripture, the Holy Spirit speaks to our hearts, 
+            transforms our minds, and shapes our character to reflect Christ's image.
+          </p>
+          <p className="discipline-text">
+            <strong>Begin with Prayer:</strong> Always approach Scripture with a humble heart, asking the 
+            Holy Spirit to illuminate God's truth and reveal what He wants you to understand. Prayer prepares 
+            your heart to receive God's word and helps you listen with spiritual ears.
+          </p>
+          <p className="discipline-text">
+            <strong>Read Meditatively:</strong> Don't rush through the text. Read slowly, allowing God's 
+            word to penetrate your heart. Consider reading the same passage multiple times, asking: "What 
+            is God saying to me through this text? How does this reveal God's character? What response does 
+            God desire from me?"
+          </p>
+          <p className="discipline-text">
+            <strong>Journal and Reflect:</strong> Write down insights, questions, and applications. Record 
+            how God is speaking to you through His word. This practice helps you remember what you've learned 
+            and track your spiritual growth over time.
+          </p>
+          <p className="discipline-text">
+            <strong>Apply What You Learn:</strong> Scripture reading without application is incomplete. Ask 
+            God to show you specific ways to live out what you've read. True spiritual growth happens when 
+            we align our lives with God's word and allow it to transform our thoughts, words, and actions.
+          </p>
+          <p className="discipline-text">
+            <strong>Stay Consistent:</strong> Like any relationship, consistency deepens intimacy. Even if 
+            you can only read a few verses each day, maintain regular communion with God through His word. 
+            Remember that God desires to speak to you personally through Scripture—He has something special 
+            for you each day.
+          </p>
+          <p className="discipline-text">
+            Building this discipline takes time and patience with yourself. Start where you are, be consistent, 
+            and trust the Holy Spirit to guide you. Over time, Bible reading will become not just a habit, 
+            but a cherished time of intimate fellowship with your heavenly Father.
+          </p>
+        </div>
       </footer>
     </div>
   );

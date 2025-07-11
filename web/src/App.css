@@ -308,6 +308,39 @@ body {
   margin: 0 auto;
 }
 
+.spiritual-discipline-section {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.discipline-title {
+  font-size: 1.25rem;
+  color: var(--primary);
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .discipline-title {
+    font-size: 1.5rem;
+  }
+}
+
+.discipline-text {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.discipline-text strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
 /* Smooth scrolling for better UX */
 html {
   scroll-behavior: smooth;
