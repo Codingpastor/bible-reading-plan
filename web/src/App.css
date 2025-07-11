@@ -1,4 +1,4 @@
-/* Modern, responsive Bible reading plan styles */
+﻿/* Modern, responsive Bible reading plan styles */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
@@ -353,5 +353,19 @@ html {
   
   html {
     scroll-behavior: auto;
+  }
+}
+
+
+/* MOBILE FOCUS FIX - Removes yellow outline */
+@media (max-width: 767px) {
+  .reading-link:focus {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .reading-link {
+    -webkit-tap-highlight-color: transparent !important;
+    -webkit-focus-ring-color: transparent !important;
   }
 }
